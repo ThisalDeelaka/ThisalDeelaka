@@ -209,6 +209,15 @@ I am proficient in a range of technologies across the stack, including frontend,
 
 ---
 
+### 🌐 Connect with Me:
+<p align="center">
+  <a href="https://linkedin.com/in/thisaldeelaka" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://fb.com/thisaldeelaka" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" /></a>
+  <a href="https://stackoverflow.com/users/thisaldeelaka" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" /></a>
+  <a href="https://www.leetcode.com/thisalrsen" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" /></a>
+</p>
+
+---
 ### 📈 GitHub Stats
 Here is a snapshot of my GitHub activity, showcasing my contributions and the technologies I frequently work with.
 
